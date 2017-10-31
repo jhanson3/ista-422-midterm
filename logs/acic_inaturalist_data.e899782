@@ -1,0 +1,7 @@
+Warning: invalid package ‘readr’
+Error: ERROR: no packages specified
+Warning in install.packages("tidyverse", lib = "/my/own/R-packages") :
+  'lib = "/my/own/R-packages"' is not writable
+Error in install.packages("tidyverse", lib = "/my/own/R-packages") : 
+  unable to install packages
+Execution halted

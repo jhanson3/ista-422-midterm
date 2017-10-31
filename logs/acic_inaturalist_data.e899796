@@ -1,0 +1,55 @@
+also installing the dependencies ‘hms’, ‘R6’
+
+trying URL 'http://cran.r-project.org/src/contrib/hms_0.3.tar.gz'
+Content type 'application/x-gzip' length 7271 bytes
+==================================================
+downloaded 7271 bytes
+
+trying URL 'http://cran.r-project.org/src/contrib/R6_2.2.2.tar.gz'
+Content type 'application/x-gzip' length 322959 bytes (315 KB)
+==================================================
+downloaded 315 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/readr_1.1.1.tar.gz'
+Content type 'application/x-gzip' length 233793 bytes (228 KB)
+==================================================
+downloaded 228 KB
+
+* installing *source* package ‘hms’ ...
+** package ‘hms’ successfully unpacked and MD5 sums checked
+** R
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (hms)
+* installing *source* package ‘R6’ ...
+** package ‘R6’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (R6)
+* installing *source* package ‘readr’ ...
+** package ‘readr’ successfully unpacked and MD5 sums checked
+** libs
+installing to /home/u31/jhanson3/project/repo/midterm/hpc/R-packages/readr/libs
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (readr)
+
+The downloaded source packages are in
+	‘/var/tmp/pbs.899796.head1.cm.cluster/RtmpSaPewT/downloaded_packages’
+Error in library(readr) : there is no package called ‘readr’
+Execution halted

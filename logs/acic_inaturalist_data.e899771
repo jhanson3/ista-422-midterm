@@ -1,0 +1,5 @@
+Warning in install.packages("readr", lib = "/data/Rpackages/") :
+  'lib = "/data/Rpackages/"' is not writable
+Error in install.packages("readr", lib = "/data/Rpackages/") : 
+  unable to install packages
+Execution halted

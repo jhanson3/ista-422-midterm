@@ -1,0 +1,6 @@
+Warning: invalid package ‘readr’
+Error: ERROR: no packages specified
+Warning in install.packages("tidyverse") :
+  'lib = "/cm/shared/uaapps/R/3.4.1/lib64/R/library"' is not writable
+Error in install.packages("tidyverse") : unable to install packages
+Execution halted

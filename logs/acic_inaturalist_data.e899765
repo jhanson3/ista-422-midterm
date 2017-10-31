@@ -1,0 +1,4 @@
+Warning in install.packages("readr") :
+  'lib = "/cm/shared/uaapps/R/3.4.1/lib64/R/library"' is not writable
+Error in install.packages("readr") : unable to install packages
+Execution halted

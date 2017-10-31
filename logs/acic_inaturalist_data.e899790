@@ -1,0 +1,3 @@
+Error in instal.packages("devtools") : 
+  could not find function "instal.packages"
+Execution halted

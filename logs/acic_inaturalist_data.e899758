@@ -1,0 +1,5 @@
+Error in library(readr) : there is no package called ‘readr’
+Execution halted
+Error: Cannot find sets/01/*, file does not exist.
+Usage: Rscript --vanilla run-sdm.R <path/to/data/file> <output-file-prefix> <path/to/output/directory/>
+Execution halted

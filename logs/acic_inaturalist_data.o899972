@@ -1,0 +1,1899 @@
+Mon Oct 30 10:32:00 MST 2017
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 432, 552, 238464  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -116, -93, 19, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/118914.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5714286  (min, max)
+
+class       : RasterLayer 
+dimensions  : 432, 552, 238464  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -116, -93, 19, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/118914.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 1992, 7968, 15872256  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -157, 175, -37, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/121993.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.75  (min, max)
+
+class       : RasterLayer 
+dimensions  : 1992, 7968, 15872256  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -157, 175, -37, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/121993.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 648, 696, 451008  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -70, 16, 43  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/122172.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 648, 696, 451008  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -70, 16, 43  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/122172.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 240, 504, 120960  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -77, 29, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/122281.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 240, 504, 120960  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -77, 29, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/122281.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 120, 120, 14400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -100, -95, 26, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/126589.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7391304  (min, max)
+
+class       : RasterLayer 
+dimensions  : 120, 120, 14400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -100, -95, 26, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/126589.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 624, 254592  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -75, 29, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/127303.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5714286  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 624, 254592  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -75, 29, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/127303.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 336, 56448  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -111, -97, 26, 33  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/129363.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 336, 56448  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -111, -97, 26, 33  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/129363.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 24, 192, 4608  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -97, 30, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/129415.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 24, 192, 4608  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -97, 30, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/129415.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 48, 9216  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -99, 18, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/130474.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 48, 9216  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -99, 18, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/130474.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 96, 216, 20736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -92, 17, 21  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/130661.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 96, 216, 20736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -92, 17, 21  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/130661.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 48, 48, 2304  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/132334.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 48, 48, 2304  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/132334.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 264, 648, 171072  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -80, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/132553.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5454545  (min, max)
+
+class       : RasterLayer 
+dimensions  : 264, 648, 171072  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -80, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/132553.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 408, 68544  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -89, -72, 38, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/133631.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5238095  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 408, 68544  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -89, -72, 38, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/133631.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 336, 504, 169344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -77, 25, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/142988.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6428571  (min, max)
+
+class       : RasterLayer 
+dimensions  : 336, 504, 169344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -77, 25, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/142988.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 48, 96, 4608  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/146736.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 48, 96, 4608  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/146736.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 480, 696, 334080  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -70, 19, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/147931.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 480, 696, 334080  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -70, 19, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/147931.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 96, 96, 9216  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 26, 30  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148517.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 96, 96, 9216  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 26, 30  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148517.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 216, 36288  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -97, 20, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148534.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.75  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 216, 36288  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -97, 20, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148534.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 408, 166464  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -84, 10, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148537.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 408, 166464  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -84, 10, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148537.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 24, 48, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 26, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148607.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 24, 48, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 26, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148607.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 288, 264, 76032  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148746.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 288, 264, 76032  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148746.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 264, 336, 88704  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -110, -96, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148800.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 264, 336, 88704  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -110, -96, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148800.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 24, 48, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 26, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148831.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 24, 48, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -97, 26, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148831.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 864, 165888  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -70, 19, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148871.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 864, 165888  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -70, 19, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/148871.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 48, 72, 3456  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -98, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/196543.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 48, 72, 3456  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -98, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/196543.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 264, 96, 25344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/202451.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 264, 96, 25344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -97, 20, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/202451.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 384, 264, 101376  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/204775.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 384, 264, 101376  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/204775.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 48, 24, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -81, -80, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/214375.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 48, 24, 1152  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -81, -80, 25, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/214375.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 312, 59904  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -94, 18, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/257794.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 312, 59904  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -94, 18, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/257794.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 432, 155520  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -106, 32, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/47226.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5714286  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 432, 155520  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -106, 32, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/47226.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 576, 1080, 622080  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -121, -76, 15, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/48550.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6428571  (min, max)
+
+class       : RasterLayer 
+dimensions  : 576, 1080, 622080  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -121, -76, 15, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/48550.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 216, 264, 57024  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 24  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/48578.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 216, 264, 57024  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -96, 15, 24  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/48578.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 312, 1008, 314496  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -65, 18, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/49759.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6315789  (min, max)
+
+class       : RasterLayer 
+dimensions  : 312, 1008, 314496  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -65, 18, 31  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/49759.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 528, 1128, 595584  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -75, 18, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/49972.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5714286  (min, max)
+
+class       : RasterLayer 
+dimensions  : 528, 1128, 595584  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -75, 18, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/49972.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 312, 576, 179712  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -77, 26, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50071.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7272727  (min, max)
+
+class       : RasterLayer 
+dimensions  : 312, 576, 179712  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -77, 26, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50071.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 2232, 2112, 4713984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -158, -70, -48, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50340.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5681818  (min, max)
+
+class       : RasterLayer 
+dimensions  : 2232, 2112, 4713984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -158, -70, -48, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50340.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 1224, 1200, 1468800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -74, -1, 50  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50931.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5857143  (min, max)
+
+class       : RasterLayer 
+dimensions  : 1224, 1200, 1468800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -74, -1, 50  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/50931.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 240, 120, 28800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -96, 16, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/509480.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 240, 120, 28800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -96, 16, 26  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/509480.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 456, 576, 262656  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -118, -94, 15, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/509627.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 456, 576, 262656  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -118, -94, 15, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/509627.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 504, 181440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -103, 32, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51097.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5555556  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 504, 181440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -103, 32, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51097.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 552, 1200, 662400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -73, 21, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51349.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.3333333  (min, max)
+
+class       : RasterLayer 
+dimensions  : 552, 1200, 662400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -73, 21, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51349.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 240, 1056, 253440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -63, 17, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51534.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 240, 1056, 253440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -63, 17, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51534.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 1080, 388800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -60, 14, 29  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51536.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4705882  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 1080, 388800  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -60, 14, 29  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51536.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 120, 120, 14400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -118, 33, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51765.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 120, 120, 14400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -118, 33, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51765.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 456, 864, 393984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -113, -77, 21, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51773.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7027027  (min, max)
+
+class       : RasterLayer 
+dimensions  : 456, 864, 393984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -113, -77, 21, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/51773.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 1104, 556416  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -120, -74, 26, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52075.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4761905  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 1104, 556416  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -120, -74, 26, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52075.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 432, 176256  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -106, 31, 48  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52484.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5588235  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 432, 176256  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -106, 31, 48  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52484.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 384, 73728  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -91, -75, 33, 41  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52773.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4444444  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 384, 73728  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -91, -75, 33, 41  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/52773.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 1464, 737856  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -158, -97, 19, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/53843.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 1464, 737856  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -158, -97, 19, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/53843.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 144, 51840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -118, 34, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/55521.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 144, 51840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -118, 34, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/55521.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 744, 2136, 1589184  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -150, -61, 33, 64  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/56776.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5333333  (min, max)
+
+class       : RasterLayer 
+dimensions  : 744, 2136, 1589184  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -150, -61, 33, 64  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/56776.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 384, 1224, 470016  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -72, 38, 54  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58469.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 384, 1224, 470016  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -72, 38, 54  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58469.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 240, 360, 86400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -79, -64, 38, 48  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58473.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 240, 360, 86400  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -79, -64, 38, 48  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58473.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 336, 600, 201600  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -73, 30, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58475.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4444444  (min, max)
+
+class       : RasterLayer 
+dimensions  : 336, 600, 201600  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -73, 30, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58475.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 144, 264, 38016  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -83, -72, 38, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58478.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5714286  (min, max)
+
+class       : RasterLayer 
+dimensions  : 144, 264, 38016  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -83, -72, 38, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58478.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 912, 459648  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -112, -74, 23, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58479.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.75  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 912, 459648  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -112, -74, 23, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58479.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 264, 696, 183744  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -72, 38, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58484.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7727273  (min, max)
+
+class       : RasterLayer 
+dimensions  : 264, 696, 183744  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -101, -72, 38, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58484.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 264, 44352  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -82, -71, 40, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58506.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 264, 44352  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -82, -71, 40, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58506.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 144, 648, 93312  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -94, -67, 39, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58507.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 144, 648, 93312  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -94, -67, 39, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58507.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 696, 283968  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -76, 30, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58509.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 696, 283968  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -105, -76, 30, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58509.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 840, 342720  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -72, 29, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58514.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7142857  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 840, 342720  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -72, 29, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58514.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 144, 240, 34560  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -82, -72, 38, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58519.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 144, 240, 34560  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -82, -72, 38, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58519.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 624, 720, 449280  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -102, -72, 19, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58523.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5957447  (min, max)
+
+class       : RasterLayer 
+dimensions  : 624, 720, 449280  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -102, -72, 19, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58523.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 624, 224640  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -96, -70, 28, 43  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58525.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7142857  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 624, 224640  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -96, -70, 28, 43  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58525.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 336, 1296, 435456  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -120, -66, 32, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58531.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 336, 1296, 435456  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -120, -66, 32, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58531.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 1248, 628992  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -72, 26, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58532.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4772727  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 1248, 628992  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -72, 26, 47  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58532.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 384, 816, 313344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -73, 30, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58539.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 384, 816, 313344  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -73, 30, 46  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58539.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 120, 1080, 129600  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -79, 34, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58543.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4444444  (min, max)
+
+class       : RasterLayer 
+dimensions  : 120, 1080, 129600  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -79, 34, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58543.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 336, 624, 209664  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -72, 30, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58550.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 336, 624, 209664  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -72, 30, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/58550.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 672, 338688  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -94, 19, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59119.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 672, 338688  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -94, 19, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59119.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 312, 59904  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -110, 32, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59124.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.475  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 312, 59904  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -110, 32, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59124.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 432, 912, 393984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -84, 20, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59128.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 432, 912, 393984  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -84, 20, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59128.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 408, 480, 195840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -119, -99, 20, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59152.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 408, 480, 195840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -119, -99, 20, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59152.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 144, 144, 20736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -116, 33, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59153.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5384615  (min, max)
+
+class       : RasterLayer 
+dimensions  : 144, 144, 20736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -116, 33, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59153.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 168, 28224  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -116, 32, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59187.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 168, 28224  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -116, 32, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59187.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 552, 744, 410688  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -93, 16, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59188.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4444444  (min, max)
+
+class       : RasterLayer 
+dimensions  : 552, 744, 410688  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -124, -93, 16, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59188.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 288, 576, 165888  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -98, 26, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59189.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.3333333  (min, max)
+
+class       : RasterLayer 
+dimensions  : 288, 576, 165888  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -98, 26, 38  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59189.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 192, 672, 129024  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -111, -83, 26, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59195.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5  (min, max)
+
+class       : RasterLayer 
+dimensions  : 192, 672, 129024  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -111, -83, 26, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/59195.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 384, 648, 248832  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -71, 29, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/60551.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6129032  (min, max)
+
+class       : RasterLayer 
+dimensions  : 384, 648, 248832  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -71, 29, 45  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/60551.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 480, 672, 322560  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -70, 19, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/67435.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4615385  (min, max)
+
+class       : RasterLayer 
+dimensions  : 480, 672, 322560  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -98, -70, 19, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/67435.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 336, 1848, 620928  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -157, -80, 20, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/67653.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.375  (min, max)
+
+class       : RasterLayer 
+dimensions  : 336, 1848, 620928  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -157, -80, 20, 34  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/67653.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 1008, 1440, 1451520  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -46, -21, 21  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/68275.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 1008, 1440, 1451520  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -106, -46, -21, 21  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/68275.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 312, 528, 164736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -77, 26, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/69844.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6153846  (min, max)
+
+class       : RasterLayer 
+dimensions  : 312, 528, 164736  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -99, -77, 26, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/69844.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 528, 1128, 595584  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -117, -70, 15, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/69940.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6111111  (min, max)
+
+class       : RasterLayer 
+dimensions  : 528, 1128, 595584  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -117, -70, 15, 37  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/69940.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 456, 1272, 580032  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -70, 30, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81559.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.8333333  (min, max)
+
+class       : RasterLayer 
+dimensions  : 456, 1272, 580032  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -123, -70, 30, 49  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81559.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 504, 960, 483840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -117, -77, 18, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81727.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.7058824  (min, max)
+
+class       : RasterLayer 
+dimensions  : 504, 960, 483840  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -117, -77, 18, 39  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81727.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 264, 648, 171072  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -80, 16, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81732.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.4  (min, max)
+
+class       : RasterLayer 
+dimensions  : 264, 648, 171072  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -107, -80, 16, 27  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/81732.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 168, 408, 68544  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -89, -72, 37, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/82792.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6666667  (min, max)
+
+class       : RasterLayer 
+dimensions  : 168, 408, 68544  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -89, -72, 37, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/82792.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 1, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 240, 456, 109440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -95, -76, 30, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/83086.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.5333333  (min, max)
+
+class       : RasterLayer 
+dimensions  : 240, 456, 109440  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -95, -76, 30, 40  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/83086.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+null device 
+          1 
+class       : RasterLayer 
+dimensions  : 360, 1176, 423360  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -73, 29, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/84239.csv+output-prediction.grd 
+names       : layer 
+values      : 0, 0.6  (min, max)
+
+class       : RasterLayer 
+dimensions  : 360, 1176, 423360  (nrow, ncol, ncell)
+resolution  : 0.04166667, 0.04166667  (x, y)
+extent      : -122, -73, 29, 44  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 
+data source : /extra/jhanson3/midterm/sets/02/84239.csv+output-prediction-threshold.grd 
+names       : layer 
+values      : 0, 1  (min, max)
+
+Finished with file writing.
+Mon Oct 30 10:58:11 MST 2017
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=4:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:31:00
+

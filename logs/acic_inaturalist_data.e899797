@@ -1,0 +1,16 @@
+Parsed with column specification:
+cols(
+  taxonID = col_integer(),
+  scientificName = col_character()
+)
+Parsed with column specification:
+cols(
+  X1 = col_integer(),
+  observations.taxonID = col_integer(),
+  latitude = col_double(),
+  longitude = col_double(),
+  observations.dateIdentified = col_datetime(format = ""),
+  observations.scientificName = col_character()
+)
+Warning message:
+Missing column names filled in: 'X1' [1] 

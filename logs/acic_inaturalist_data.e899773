@@ -1,0 +1,5 @@
+Warning: invalid package ‘readr’
+Error: ERROR: no packages specified
+Error in install.packages(readr, lib = "/my/own/R-packages/") : 
+  object 'readr' not found
+Execution halted

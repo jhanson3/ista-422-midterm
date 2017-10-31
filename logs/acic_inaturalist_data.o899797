@@ -1,0 +1,11 @@
+Sun Oct 29 21:44:58 MST 2017
+start data setup
+Sun Oct 29 21:44:58 MST 2017
+Sun Oct 29 21:49:25 MST 2017
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=4:mem=2gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:09:00
+

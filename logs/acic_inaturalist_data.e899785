@@ -1,0 +1,6 @@
+Warning: unable to access index for repository http://cran.rstudio.com/%ss/src/contrib:
+  cannot open URL 'http://cran.rstudio.com/%ss/src/contrib/PACKAGES'
+Warning message:
+package ‘tidyverse’ is not available (for R version 3.4.1) 
+Error in library(readr) : there is no package called ‘readr’
+Execution halted
